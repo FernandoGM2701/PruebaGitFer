@@ -19,7 +19,7 @@
         android:layout_height="match_parent"
         android:text="Primer Commit"
         android:textSize="40dp"
-        android:padding="10dp"/>
+        android:padding="11dp"/>
 
 
 </RelativeLayout>
